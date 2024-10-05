@@ -22,4 +22,8 @@ The output of the mixer is sent to VCF, VCA, ADSR and so on.
 
 All the settings are made with contactors wired to GPIO controllers MCP23017 and connected to ythe ESP32 with I2C bus and IRQs.
 
+<h2>The shematics of the motherboard</h2>
+This shematics is not up to date.
+<img src ="pictures/CarteMere.jpg" alt="Shematics motherboard" />
+
 
