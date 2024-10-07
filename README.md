@@ -1,9 +1,9 @@
 # synthe-diy
-<h1>Build your own synthetiseur based on the microcontroller ESP32 with some electronic components and Python with a keyboard made with copper coins.</h1>
+<h2>Build your own synthetiseur based on the microcontroller ESP32 with some electronic components and Python with a keyboard made with copper coins.</h2>
 
 Release 1.0 04-10-2024
 
-<h2>Licence<h1></h1>
+<h2>Licence</h1>
 All the code, shematics and design are open-source and free of use.
 
 <h2>How does it Works</h2>
