@@ -15,7 +15,7 @@ The code is written in <a href="https://docs.micropython.org/en/latest/esp32/qui
 
 The keyboard is made with copper coins like in the <a href="https://arduino103.blogspot.com/2019/10/python-organ-creer-un-orgue.html" target="_blank">penny organ projet</a>.
 
-The keys are connected to capacitives touch sensors MPR121 (one on each octave) wired on a I2C bus to the ESP32.<br/>
+The keys are connected to capacitives touch sensors MPR121 (one per octave) wired on a I2C bus to the ESP32.<br/>
 See <a href="https://cdn-learn.adafruit.com/downloads/pdf/adafruit-mpr121-gator.pdf" target="_blank">Adafruit MPR121</a> for details.<br/>
 <a href="https://www.sparkfun.com/datasheets/Components/MPR121.pdf">Datasheet</a><br/>
 IRQs can be used from MPR121 to GPIO MCP 23017
