@@ -9,8 +9,8 @@ All the code, shematics and design are open-source and free of use.
 <h2>How does it Works</h2>
 
 The synthetiseur is build with a numeric motherboard wich read keys from the keyboard and send notes to oscillators.<br/>
-The output of the oscillators are treated with electonic components on PCBs. The PCBs are VCF, VCA, ADSR, Noise generator and so on.
-The motherboard is based on <a href="https://www.adafruit.com/product/3405" target="_blank">huzzah32 Adafruit ESP32</a>.
+The output of the oscillators are treated with electonic components on PCBs. The PCBs are VCF, VCA, ADSR, Noise generator and so on.<br/>
+The motherboard is based on <a href="https://www.adafruit.com/product/3405" target="_blank">huzzah32 Adafruit ESP32</a>.<br/>
 The code is written in <a href="https://docs.micropython.org/en/latest/esp32/quickref.html#" target="_blank">micropython</a>
 
 The keyboard is made with copper coins like in the <a href="https://arduino103.blogspot.com/2019/10/python-organ-creer-un-orgue.html" target="_blank">penny organ projet</a>.
